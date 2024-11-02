@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "img": "/images/Categories/img6.png",
+      "title": "Breakfast",
+      "color": "linear-gradient(180deg, rgba(112, 130, 70, 0) 0%, rgba(112, 130, 70, 0.1) 100%)"
+      
+    },
+    {
+      "id": 2,
+      "img": "images/Categories/img5.png",
+      "title": "Vegan",
+      "color": "linear-gradient(180deg, rgba(108, 198, 63, 0) 0%, rgba(108, 198, 63, 0.1) 100%)"
+    },
+    {
+      "id": 3,
+      "img": "images/Categories/img4.png",
+      "title": "Meat",
+      "color": "linear-gradient(180deg, rgba(204, 38, 27, 0) 0%, rgba(204, 38, 27, 0.1) 100%)"
+    },
+    {
+        "id": 4,
+        "img": "images/Categories/img3.png",
+        "title": "Dessert",
+        "color": "linear-gradient(180deg, rgba(240, 158, 0, 0) 0%, rgba(240, 158, 0, 0.1) 100%)"
+      },
+      {
+        "id": 5,
+        "img": "images/Categories/img2.png",
+        "title": "Lunch",
+        "color": "linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.05) 100%)"
+      },
+      {
+        "id": 6,
+        "img": "images/Categories/img1.png",
+        "title": "Chocolate",
+        "color": "linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.05) 100%)"
+      }
+  ]
