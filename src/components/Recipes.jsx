@@ -182,7 +182,7 @@ export default function Recipes() {
                         ))}
                         <div className='bg-custom-gradient-2 w-[400px] h-[434px] flex justify-center items-center flex-col'> 
                                 <h3 className='font-Lobster text-[24px] text-white w-[50%] text-center'>Don’t forget to eat healthy food</h3>
-                                <img className='w-[354px] h-[306px]' src="https://s3-alpha-sig.figma.com/img/cd3f/c786/be8146a0b252a22c435d87ce85069550?Expires=1728864000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=TCq-Gnst7XiLChVDe5isXD6YHVkCwVjfVg~~6OsZXHsSC1IrR7hMo~kBO5YKKOpxiw~0c8MpBzhJ03p6Gsp8aaFJUE818~5cxEE-JNmBgBX-E0wBzAZm15WIeNkZFnTJVd-xVbK84mweombiB2jy681gqZwJh7XTUogNmeA4WkBOZak4USop1vEI4la63Y~wyYAxLJsgBYNdDKpiyQF84R~Ss60SP3W9V0oiAm5ccvCoQxlyzgqCh7VV7OqAYQ~JV3bGPLGuST2d3Z4I3ECywP329S-4PnOhOaORktp1E3iBklEDe2RaYjrVgqp~OFloh-hP-zCptRFooy2vs0FHkg__" alt="" />
+                                <img className='w-[354px] h-[306px]' src="/images/pib.png" alt="" />
                                 <a className='text-white text-[10px]' href="www.foodieland.com">www.foodieland.com</a> 
                             </div>
                     </div>

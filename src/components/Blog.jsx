@@ -33,7 +33,7 @@ export default function Blog() {
                         ))}
                         <div className='bg-custom-gradient-2 w-[400px] h-[434px] flex justify-center items-center flex-col'> 
                                 <h3 className='font-Lobster text-[24px] text-white w-[50%] text-center'>Don’t forget to eat healthy food</h3>
-                                <img className='w-[354px] h-[306px]' src="images/pib.png" alt="" />
+                                <img className='w-[354px] h-[306px]' src="/images/pib.png" alt="blog" />
                                 <a className='text-white text-[10px]' href="www.foodieland.com">www.foodieland.com</a> 
                             </div>
                     </div>
